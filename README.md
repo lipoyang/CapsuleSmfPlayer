@@ -8,7 +8,7 @@ https://bitbucket.org/kyoto-densouan/smfseq/src/m5stack/
 ## Hardware Requirements
 - M5Capsule
 - Unit Synth
-- tack switchs x 4
+- tactile switch x 4
 - NeoPixel LED x 1
 
 ## Development Environment
